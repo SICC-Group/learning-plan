@@ -1,6 +1,6 @@
 # RL进度安排
 
-参考： [强化学习导论](./reading/reinforcement learning introduction.pdf)、[神经网络和深度学习 第14章](./reading/神经网络与深度学习.pdf)
+参考： [强化学习导论](./reading/reinforcement%20learning%20introduction.pdf)、[神经网络和深度学习 第14章](./reading/神经网络与深度学习.pdf)
 
 ## 强化学习基础
 
@@ -28,21 +28,21 @@
 
 2. Sarsa（六、5，14.2.3）
 
-3. DQN（14.2.4）[paper](./reading/Playing Atati with Deep Reinforcement Learning.pdf)
-4. Nature DQN 论文  [paper](./reading/Human-level Control Through Deep Reinforcement Learning.pdf)
+3. DQN（14.2.4）[paper](./reading/Playing%20Atati%20with%20Deep%20Reinforcement%20Learning.pdf)
+4. Nature DQN 论文  [paper](./reading/Human-level%20Control%20Through%20Deep%20Reinforcement%20Learning.pdf)
 5. Double DQN (DDQN)  [paper](./reading/Deep_Reinforcement_Learning_with_Double_Q-learning.pdf)
 
 ## 基于策略函数的强化学习
 
 1. PG (十三、3，14.3)  [paper](./reading/Policy_Gradient_Methods_for_Reinforcement_Learning.pdf)
-2. reinforce算法（十三、4，14.3.1）[paper](./reading/Simple statistical gradientfollowing algorithms for connectionist reinforcement learning.pdf)
+2. reinforce算法（十三、4，14.3.1）[paper](./reading/Simple%20statistical%20gradientfollowing%20algorithms%20for%20connectionist%20reinforcement%20learning.pdf)
 3. 带基线的reinforce算法（十三、5，14.3.2）
-4. DPG [paper](./reading/Deterministic Policy Gradient Algorithms.pdf)
-5. DDPG  [paper](./reading/DDPG-Continuous control with deep reinforcement learning.pdf)
+4. DPG [paper](./reading/Deterministic%20Policy%20Gradient%20Algorithms.pdf)
+5. DDPG  [paper](./reading/DDPG-Continuous%20control%20with%20deep%20reinforcement%20learning.pdf)
 
 ## 基于AC框架的强化学习
 
 1. AC (十三、6,14.4)  [paper](./reading/Policy_Gradient_Methods_for_Reinforcement_Learning.pdf)
 2. A2C  [intro](https://openai.com/blog/baselines-acktr-a2c/)
-3. A3C  [paper](./Asynchronous Methods for Deep Reinforcement Learning.pdf)
+3. A3C  [paper](./Asynchronous%20Methods%20for%20Deep%20Reinforcement%20Learning.pdf)
 
